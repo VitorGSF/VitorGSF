@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/vitor-gabriel-de-souza-farias-564651196/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/vitor-gabriel-de-souza-farias-564651196/">
+      <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    </a>
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=VitorGSF&style=flat-square&color=blue" alt=""/>
