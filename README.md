@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 [![VitorGSF's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/VitorGSF)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/VitorGSF)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff"/>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff"/>
