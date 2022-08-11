@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/VitorGSF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff"/>
-</a>
-<a href="https://github.com/VitorGSF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff"/>
-</a>
+
+[![VitorGSF's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitorGSF)](https://github.com/VitorGSF)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/VitorGSF)
+
+[![VitorGSF's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/VitorGSF)
