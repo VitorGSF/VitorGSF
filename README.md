@@ -18,9 +18,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff) (https://github.com/VitorGSF)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)] (https://github.com/VitorGSF)
 
-[![VitorGSF's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/VitorGSF)
+  [![VitorGSF's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/VitorGSF)
 </div>
 
 
@@ -40,16 +40,3 @@ Here are some ideas to get you started:
 -->
 
 <!--[![VitorGSF's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitorGSF)](https://github.com/VitorGSF)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/VitorGSF)
-
-[![VitorGSF's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/VitorGSF)
-
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/vitor-gabriel-de-souza-farias-564651196/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=VitorGSF&style=flat-square&color=blue" alt=""/>
