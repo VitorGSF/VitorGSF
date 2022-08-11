@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/vitor-gabriel-de-souza-farias-564651196/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5567996733838&text=Send20%a20%quote">
+    <a href="https://api.whatsapp.com/send?phone=5567996733838">
       <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
   </div>
