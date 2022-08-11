@@ -14,6 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=VitorGSF&style=flat-square&color=red" alt=""/>
   
   <h1>
+    <img src="https://emojipedia.org/pt/moai/#:~:text=Mudar%20o%20idioma-,%F0%9F%97%BF,-Moai" />
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
