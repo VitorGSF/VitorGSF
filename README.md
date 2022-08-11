@@ -18,9 +18,13 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)] (https://github.com/VitorGSF)
-
-  [![VitorGSF's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/VitorGSF)
+  <a href="https://github.com/VitorGSF">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" alt="https://github.com/VitorGSF"/>
+  </a>
+  <a href="https://github.com/VitorGSF">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" alt="https://github.com/VitorGSF"/>
+  </a>
+  
 </div>
 
 
