@@ -9,7 +9,7 @@
     <a href="https://api.whatsapp.com/send?phone=5567996733838">
       <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
-    <a href="malito:vitorvg431@gmail.com">
+    <a href="mailto:vitorvg431@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <div>
