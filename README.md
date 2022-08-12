@@ -20,8 +20,9 @@
   </h1>
   
   <!--### :man_technologist: About Me:-->
-  
-  ### :hammer_and_wrench: Languages:
+  <h2>
+    :hammer_and_wrench: Languages:
+  </h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -37,7 +38,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   </div>
   
-  ### :gear: Tools:
+  <h2>
+    :gear: Tools:
+  </h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -58,9 +61,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   </div>
   
-  
-   ### :fire: My Stats:
-  
+  <h2>
+    :fire: My Stats:
+  </h2>
   <div>
     <a href="https://github.com/VitorGSF">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" alt="https://github.com/VitorGSF"/>
