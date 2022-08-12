@@ -65,6 +65,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" alt="https://github.com/VitorGSF"/>
   </a>
   
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorGSF&theme=dark&background=000000)](https://git.io/streak-stats)
+  
 </div>
 
 
