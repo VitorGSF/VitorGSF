@@ -32,10 +32,10 @@
     - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
     <br>
     <br>
-    - I’m student <img src="https://media1.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif?cid=ecf05e472p6rwhtohdmcm2vlihxt9ig02wv2ufzbfp8p5bpf&rid=giphy.gif&ct=g" width="30"> a Software Engineer, formed <img src="https://3.bp.blogspot.com/-DjBiuyXzQOI/VfCkqxd75RI/AAAAAAACfUI/prStDZNMODc/s1600/45.gif" width="30"> in Analisis and Development of Systems and Informatics Technician.
+    - I’m student <img src="https://media1.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif?cid=ecf05e472p6rwhtohdmcm2vlihxt9ig02wv2ufzbfp8p5bpf&rid=giphy.gif&ct=g" width="40"> a Software Engineer, formed <img src="https://3.bp.blogspot.com/-DjBiuyXzQOI/VfCkqxd75RI/AAAAAAACfUI/prStDZNMODc/s1600/45.gif" width="30"> in Analisis and Development of Systems and Informatics Technician.
     <br>
     <br>
-    - In my free time, I play games <img src="https://media0.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif?cid=ecf05e47w3e0v2bbh2q3boetni60kskqlanwfvjeb1d46gv4&rid=giphy.gif&ct=g" width="30">, watch anime <img src="https://media2.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif?cid=ecf05e475x4ftiurz8a9l1xda3qx2jh8mgyh7d6ybvdahbrp&rid=giphy.gif&ct=g" width="30"> and study computer programming, software and hardware <img src="https://media1.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47qnzg40n1yv96sbp88udj653adu2hw64pu5knlyd1&rid=giphy.gif&ct=g" width="30">.
+    - In my free time, I play games <img src="https://media0.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif?cid=ecf05e47w3e0v2bbh2q3boetni60kskqlanwfvjeb1d46gv4&rid=giphy.gif&ct=g" width="40">, watch anime <img src="https://media2.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif?cid=ecf05e475x4ftiurz8a9l1xda3qx2jh8mgyh7d6ybvdahbrp&rid=giphy.gif&ct=g" width="40"> and study computer programming, software and hardware <img src="https://media1.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47qnzg40n1yv96sbp88udj653adu2hw64pu5knlyd1&rid=giphy.gif&ct=g" width="40">.
   </div>
   
   <hr>
