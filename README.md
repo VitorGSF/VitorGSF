@@ -20,6 +20,7 @@
   </h1>
   
   <!--### :man_technologist: About Me:-->
+  <hl>
   <h2>
     :hammer_and_wrench: Languages:
   </h2>
@@ -38,6 +39,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   </div>
   
+  <hl>
   <h2>
     :gear: Tools:
   </h2>
@@ -61,6 +63,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   </div>
   
+  <hl>
   <h2>
     :fire: My Stats:
   </h2>
