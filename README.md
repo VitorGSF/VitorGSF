@@ -9,6 +9,9 @@
     <a href="https://api.whatsapp.com/send?phone=5567996733838">
       <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
+    <a href="malito:vitorvg431@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
     <div>
       <img src="https://komarev.com/ghpvc/?username=VitorGSF&style=flat-square&color=red" alt="Views"/>
     </div>
@@ -21,7 +24,22 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  <!--### :man_technologist: About Me:-->
+  <hr>
+  <h2>
+    :man_technologist: About Me:
+  </h2>
+  <div>
+    - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+    
+    - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+    - :seedling: Exploring Technical Content Writing.
+
+    - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+    - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  </div>
+  
   <hr>
   <h2>
     :hammer_and_wrench: Languages:
