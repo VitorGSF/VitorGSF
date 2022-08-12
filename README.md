@@ -13,11 +13,11 @@
 
   <img src="https://komarev.com/ghpvc/?username=VitorGSF&style=flat-square&color=red" alt=""/>
   
-  <div>
+  <h1>
     <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/moai_1f5ff.png" />
     <b>Hi there</b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </div>
+  </h1>
   
   <!--### :man_technologist: About Me:-->
   <hr>
