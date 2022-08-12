@@ -9,7 +9,9 @@
     <a href="https://api.whatsapp.com/send?phone=5567996733838">
       <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=VitorGSF&style=flat-square&color=red" alt=""/>
+    <div>
+      <img src="https://komarev.com/ghpvc/?username=VitorGSF&style=flat-square&color=red" alt="Views"/>
+    </div>
   </div>
   
   <hr>
