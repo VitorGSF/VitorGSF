@@ -58,12 +58,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   </div>
   
-  <a href="https://github.com/VitorGSF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" alt="https://github.com/VitorGSF"/>
-  </a>
-  <a href="https://github.com/VitorGSF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" alt="https://github.com/VitorGSF"/>
-  </a>
+  <div>
+    <a href="https://github.com/VitorGSF">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" alt="https://github.com/VitorGSF"/>
+    </a>
+    <a href="https://github.com/VitorGSF">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" alt="https://github.com/VitorGSF"/>
+    </a>
+  </div>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorGSF&theme=dark&background=000000)](https://git.io/streak-stats)
   
