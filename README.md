@@ -59,6 +59,9 @@
   </div>
   
   <div>
+    ---
+
+    ### :fire: My Stats :
     <a href="https://github.com/VitorGSF">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" alt="https://github.com/VitorGSF"/>
     </a>
