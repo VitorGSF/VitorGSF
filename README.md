@@ -31,7 +31,7 @@
   <div>
     - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
     
-    - I’m student <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media4.giphy.com/media/RLJszw6nvhtq4Haf57/giphy.gif?cid=ecf05e47d687tbu5i69v2jpacur1llggqskkgtlw7fxke763&rid=giphy.gif&ct=g" width="30"> a Software Engineer, formed in Analisis and Development of Systems and Informatics Technician.
+    - I’m student <img src="https://media4.giphy.com/media/RLJszw6nvhtq4Haf57/giphy.gif?cid=ecf05e47d687tbu5i69v2jpacur1llggqskkgtlw7fxke763&rid=giphy.gif&ct=g" width="30"> a Software Engineer, formed in Analisis and Development of Systems and Informatics Technician.
 
     - :zap: In my free time, I play games and study computer programming, software and hardware.
   </div>
