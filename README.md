@@ -19,7 +19,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  ### :man_technologist: About Me :
+  <!--### :man_technologist: About Me:-->
   
   ### :hammer_and_wrench: Languages:
   <div>
@@ -58,10 +58,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   </div>
   
+  
+   ### :fire: My Stats:
+  
   <div>
-    ---
-
-    ### :fire: My Stats :
     <a href="https://github.com/VitorGSF">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGSF&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" alt="https://github.com/VitorGSF"/>
     </a>
