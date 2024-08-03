@@ -28,13 +28,13 @@
     :man_technologist: About Me:
   </h2>
   <div>
-    - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+    - I am a Full Stack Developer from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     <br>
     <br>
-    - I’m student <img src="https://media1.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif?cid=ecf05e472p6rwhtohdmcm2vlihxt9ig02wv2ufzbfp8p5bpf&rid=giphy.gif&ct=g" width="40"> a Software Engineer, formed <img src="https://3.bp.blogspot.com/-DjBiuyXzQOI/VfCkqxd75RI/AAAAAAACfUI/prStDZNMODc/s1600/45.gif" width="30"> in Analisis and Development of Systems and Informatics Technician.
+    - I’m actually a student of master degree in Computer Science by Federal University of Mato Grosso do Sul (UFMS), formed in Software Engineer in UFMS, Analysis and Development of Systems in Catholic University Dom Bosco (UCDB) and Informatics Technician in Federal Institute of Mato Grosso do Sul (IFMS).
     <br>
     <br>
-    - In my free time, I play games <img src="https://media0.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif?cid=ecf05e47w3e0v2bbh2q3boetni60kskqlanwfvjeb1d46gv4&rid=giphy.gif&ct=g" width="40">, watch anime <img src="https://media2.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif?cid=ecf05e475x4ftiurz8a9l1xda3qx2jh8mgyh7d6ybvdahbrp&rid=giphy.gif&ct=g" width="40"> and study computer programming, software and hardware <img src="https://media1.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47qnzg40n1yv96sbp88udj653adu2hw64pu5knlyd1&rid=giphy.gif&ct=g" width="40">.
+    - On my free time, I play games <img src="https://media0.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif?cid=ecf05e47w3e0v2bbh2q3boetni60kskqlanwfvjeb1d46gv4&rid=giphy.gif&ct=g" width="40">, watch japanese animes <img src="https://media2.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif?cid=ecf05e475x4ftiurz8a9l1xda3qx2jh8mgyh7d6ybvdahbrp&rid=giphy.gif&ct=g" width="40"> and study papers, computer programming, software and hardware <img src="https://media1.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47qnzg40n1yv96sbp88udj653adu2hw64pu5knlyd1&rid=giphy.gif&ct=g" width="40">.
   </div>
   
   <hr>
